@@ -2,7 +2,7 @@
 
 📧 elonjson@gmail.com  
 📍 Shenzhen, China  
-🌐 [GitHub/LinkedIn URL if available]
+🌐 [GitHub](https://github.com/jsonelon/cv)
 
 ---
 
